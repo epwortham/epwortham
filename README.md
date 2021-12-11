@@ -1,4 +1,4 @@
-[![Etienne's GitHub Banner](./assets/githubBanner.jpg)](https://etiennewortham.me)
+<!-- [![Etienne's GitHub Banner](./assets/githubBanner.jpg)](https://etiennewortham.me) -->
 
 <h1 align="center">Hey there, my name's Etienne</h1>
 <h3 align="center">A fun-loving front-end developer in Tokyo</h3>
